@@ -1,0 +1,2 @@
+# Code_for_Cooperation_in_Public_Goods_Games_over_Uniform_Random_Hypergraphs_with_Game_Transitions
+This repository provides the core simulation code of the paper for open access and reproducibility.
